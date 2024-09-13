@@ -8,6 +8,13 @@
 - Maven : (Apache Maven 3.9.3)
 - Editor : (Intellij IDEA 2023.1.1 Community Edition)
 
+## Dependencis
+
+- Spring Data JPA
+- Spring Web
+- Spring Boot DevTools
+- MySQL Driver
+
 ## run project
 
 1. clone project Spring boot
