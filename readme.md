@@ -22,7 +22,7 @@ https://github.com/rardan97/spring-boot-many-to-many.git
    #### location : spring-boot-one-to-many/src/main/resources/application.properties
 
 ```
-spring.application.name=spring-boot-one-to-many
+spring.application.name=spring-boot-many-to-many
 spring.jpa.hibernate.ddl-auto=update
 spring.datasource.url=jdbc:mysql://localhost:3306/db_spring_many_to_many
 spring.datasource.username=root
